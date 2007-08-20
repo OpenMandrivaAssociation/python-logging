@@ -1,5 +1,5 @@
 %define version 0.4.7
-%define release 3mdk
+%define release %mkrel 3
 %define oname logging
 %define dname %{oname}-%{version}
 
