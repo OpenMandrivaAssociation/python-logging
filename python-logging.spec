@@ -10,7 +10,6 @@ Source: %{dname}.tar.bz2
 Summary: Fast Python module for rational numbers
 License: Distributable
 Group: Development/Python
-BuildRoot: %{_tmppath}/%{name}-buildroot
 Url: http://www.red-dove.com/python_logging.html
 Requires: python >= %{pyver}
 BuildRequires: python >= %{pyver}
