@@ -4,7 +4,7 @@
 Name:		python-%{oname}
 Summary:	Fast Python module for rational numbers
 Version:	0.4.9.6
-Release:	%mkrel 3
+Release:	%mkrel 4
 Source0:	http://www.red-dove.com/%{dname}.tar.gz
 License:	MIT
 Group:		Development/Python
