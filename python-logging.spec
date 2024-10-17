@@ -9,7 +9,7 @@ Release:	6
 Source0:	http://www.red-dove.com/%{dname}.tar.gz
 License:	MIT
 Group:		Development/Python
-URL:		http://www.red-dove.com/python_logging.html
+URL:		https://www.red-dove.com/python_logging.html
 BuildRequires:	python-devel
 BuildArch:	noarch
 
